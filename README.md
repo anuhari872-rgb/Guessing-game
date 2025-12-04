@@ -1,4 +1,5 @@
-🎮 Guessing Game
+Guessing Game
+
 📌 Overview
 The Guessing Game is a fun, interactive program where the player attempts to guess a randomly generated number within a given range. It demonstrates core programming concepts such as loops, conditionals, randomization, and user input handling.
 
